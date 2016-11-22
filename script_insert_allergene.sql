@@ -1,0 +1,15 @@
+INSERT INTO Allergene (lbalgn) VALUES
+('Gluten'),
+('Crustacés'),
+('Oeufs'),
+('Poissons'),
+('Arachides'),
+('Soja'),
+('Lait'),
+('Fruits à coques'),
+('Céleri'),
+('Moutarde'),
+('Graines de sésame'),
+('Anhydride sulfureux et sulfites'),
+('Lupin'),
+('Mollusques');
